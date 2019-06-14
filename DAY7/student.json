@@ -1,0 +1,33 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Jun 11 14:34:38 2019
+
+@author: HP
+"""
+
+import json
+
+json_string = """
+{ 
+      
+ 	"student": {
+
+ 		"first name": "rahul",
+ 		"last name": "sharma",
+ 		"photo": "http//seeurface.org",
+ 		"department": "timepass",
+ 		"research area": {
+
+ 			"sleep": "how to sleep more",
+ 			"b*ch*diiiii": "how to be more b*ch*d",
+ 			"love_guru": "gyan batna"
+ 		},
+ 		"contact_details": {
+
+ 			"mobile_no": ["714173314", "9875874668"],
+ 			"email": ["qwerty@gmail.com", "ytrewq@gmail.com"]
+
+ 		}
+ 	}
+} 
+"""
